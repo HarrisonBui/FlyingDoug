@@ -21,6 +21,6 @@ The user will guide Doug the Pug's horizontal jump direction while Doug will jum
 * Webpack to bundle and serve up the various scripts.
 
 ## Implementation Timeline
-* Day 1: Platforms, Main object movement logic, & sprites
-* Day 2: Game play/loop
-* Day 3: Scoring and Power ups
+* Day 1: Outline a basic file structure and have front page instructions rendering.  Have sprites for platform object and Main character object rendering and movement logic.
+* Day 2: Character able to jump on platforms and continue moving up.
+* Day 3: Scoring is calculated by which platform is hit.  Implement enemy object that on hit will end the game.

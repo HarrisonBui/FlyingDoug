@@ -12,7 +12,7 @@ The user will guide Doug the Pug's horizontal jump direction while Doug will jum
 - Production README
 
 ## Design Docs
-* [View Wireframes](wireframes)
+* [View Wireframes](docs/wireframes)
 
 ## Technologies
 * Vanilla Javascript for overall structure and game logic.

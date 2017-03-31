@@ -13,3 +13,56 @@ canvas {
   margin-right: auto;
   margin-top: 70px;
 }
+
+div,img,li,ul {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 500px;
+}
+
+.name {
+  float: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  margin-top: 8px;
+  font-weight: bolder;
+  color: #CACCCE;
+  padding: 10px;
+  background-color: #000000;
+  border-radius: 5px;
+}
+
+ul {
+
+}
+
+li {
+  list-style: none;
+  float: left;
+  margin-left: 15px;
+}
+
+img {
+  height: 100%;
+  width: auto;
+  display: block;
+}
+
+.gitlink {
+  height: 48px;
+  width: 40px;
+  margin-top: 7px;
+  display: block;
+
+}
+
+.linklink {
+  margin-top: 7px;
+  height: 46px;
+  width: 50px;
+  display: block;
+}

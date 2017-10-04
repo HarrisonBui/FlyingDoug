@@ -5,12 +5,11 @@ body {
   background-image:  url("https://i.ytimg.com/vi/IVQop5lw6eU/maxresdefault.jpg");
   background-size: auto;
   background-repeat: no-repeat;
+  max-width: 1280px;
 }
 
 canvas {
   outline: 0;
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 70px;
 }
 

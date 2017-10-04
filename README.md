@@ -21,6 +21,6 @@ Every time the main character lands on a platform, it is projected upward in hop
 
 ![wireframe](docs/gameplay.png)
 
-##Future Plans
+## Future Plans
 - Create an enemy object.
 - Implement moving platforms and platforms that disappear.
